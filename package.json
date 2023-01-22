@@ -1,0 +1,12 @@
+{
+  "name": "sass-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch --no-source-map scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
