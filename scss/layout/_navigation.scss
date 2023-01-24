@@ -9,8 +9,3 @@
     grid-row: 3 / 4;
     @include navigation;
 }
-
-// To hide dropdown for some moments
-.dropdown {
-    display: none;
-}
