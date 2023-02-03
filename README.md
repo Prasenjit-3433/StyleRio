@@ -219,7 +219,7 @@ Project Link: [https://github.com/Prasenjit-3433/StyleRio](https://github.com/Pr
 [license-shield]: https://img.shields.io/github/license/Prasenjit-3433/StyleRio.svg?style=for-the-badge
 [license-url]: https://github.com/Prasenjit-3433/StyleRio/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/prasenjitsutradhar
+[linkedin-url]: https://www.linkedin.com/in/prasenjitsutradhar/
 [product-screenshot]: images/screenshot.png
 [HTML5]: https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
